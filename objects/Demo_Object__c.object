@@ -192,14 +192,4 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>FourthField__c</fullName>
-        <externalId>false</externalId>
-        <label>FourthField</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
 </CustomObject>
